@@ -34,7 +34,7 @@ comments: false
   [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:tokBHckJqdUJ:scholar.google.com/&output=citation&scisdr=CgUCzfEXEMz46iDwmAc:AAGBfm0AAAAAX9v1gAd2cBKK-iQiSE0t3r1PpRb9NDkI&scisig=AAGBfm0AAAAAX9v1gBmRn33WLpbaozLm_nJo77UAKKif&scisf=4&ct=citation&cd=-1&hl=en)[[PDF]]()[[Code]]()
 
 + **Yuan Liang**, Hsuan-Wei Fan, Zhujun Fang, Leiying Miao, Wen Li, Xuan Zhang, Weibin Sun, Kun Wang, Lei He, Xiang Anthony Chen\
-  **OralCam: Enabling Self-Examination andAwareness of Oral Health Using a Smartphone Camera**\
+  **OralCam: Enabling Self-Examination and Awareness of Oral Health Using a Smartphone Camera**\
   *<span style="color:red">Best Paper Honorable Mentioned Award</span>*\
   *Human Factors in Computing Systems (CHI2020)*\
   [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:SfUqyU4XngYJ:scholar.google.com/&output=citation&scisdr=CgUCzfEXEMz46iDzGy0:AAGBfm0AAAAAX9v2Ay21gbel2E1qeFfKwkPwZD85Jm57&scisig=AAGBfm0AAAAAX9v2A8sHJbdr4NbETKAG6lw58J-3GW4N&scisf=4&ct=citation&cd=-1&hl=en)[[PDF]]()[[Code]]()
