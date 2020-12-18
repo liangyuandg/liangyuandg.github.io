@@ -29,7 +29,7 @@ comments: false
   [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:eIwwkeVOozYJ:scholar.google.com/&output=citation&scisdr=CgUCzfEXEMz46iDwN5Y:AAGBfm0AAAAAX9v1L5Z1gpbeobzntn_c3FFsv06ubk2W&scisig=AAGBfm0AAAAAX9v1LzyjkkaxCfzEtg2sMEEip7KD0VbA&scisf=4&ct=citation&cd=-1&hl=en)[[PDF]]()[[Code]]()
 
 + **Yuan Liang**, Weinan Song, Jiawei Yang, Liang Qiu, Kun Wang, Lei He\
-  **X2Teeth: 3D TeethReconstruction from a Single Panoramic Radiograph**\
+  **X2Teeth: 3D Teeth Reconstruction from a Single Panoramic Radiograph**\
   *Medical Image Computing & Computer Assisted Intervention (MICCAI2020)*\
   [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:tokBHckJqdUJ:scholar.google.com/&output=citation&scisdr=CgUCzfEXEMz46iDwmAc:AAGBfm0AAAAAX9v1gAd2cBKK-iQiSE0t3r1PpRb9NDkI&scisig=AAGBfm0AAAAAX9v1gBmRn33WLpbaozLm_nJo77UAKKif&scisf=4&ct=citation&cd=-1&hl=en)[[PDF]]()[[Code]]()
 
