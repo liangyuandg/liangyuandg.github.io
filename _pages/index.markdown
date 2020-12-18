@@ -10,7 +10,7 @@ comments: false
 #### About Me    
 I am a Ph.D candidate in the Department of Electrical & Computer Engineering, University of California, Los Angeles (UCLA).
 I am doing research in [Design Automation Laboratory](http://eda.ee.ucla.edu/), advised by [Dr. Lei He](http://eda.ee.ucla.edu/people/faculty.html).
-I also work closely with [Dr. Anthony Chen](https://xac.is/) from [HCI Research](https://hci.ucla.edu/#projects) and [Dr. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html).
+I also work closely with [Dr. Anthony Chen](https://xac.is/) from [UCLA Human Computer Interaction Research (HCI Research)](https://hci.ucla.edu/#projects) and [Dr. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html).
 My research focuses on computer vision algorithm and application for medical data, and intersects with natural language programming.
 My goal is to develop AI-empowered tools for intelligent healthcare.
 
