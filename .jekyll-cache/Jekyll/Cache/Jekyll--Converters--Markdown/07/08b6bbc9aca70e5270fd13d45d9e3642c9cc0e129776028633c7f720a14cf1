@@ -1,5 +1,20 @@
-I"�<h4 id="peer-reviewed-publications">Peer-reviewed Publications</h4>
+I"�"<h4 id="book-chapters">Book Chapters</h4>
 <ul>
+  <li><strong>Yuan Liang</strong>, Lei He, Xiang ‘Anthony’ Chen<br />
+<strong>Human-Centered AI for Medical Imaging</strong> in<br />
+<em>Artificial Intelligence for Human Computer Interaction: A Modern Approach</em>, edited by Yang Liang and Otmar Hilliges<br />
+<em>to appear in 2021, published by Springer</em>
+<a href="">[BibTeX]</a><a href="">[PDF]</a></li>
+</ul>
+
+<h4 id="peer-reviewed-publications">Peer-reviewed Publications</h4>
+<ul>
+  <li>
+    <p><strong>Yuan Liang</strong>, Liang Qiu, Tiancheng Lu, Zhujun Fang, Dezhan Tu, Jiawei Yang, Tiandong Zhao, Yiting Shao, Kun Wang, Xiang ‘Anthony’ Chen, Lei He<br />
+<strong>OralViewer: 3D Demonstration of Dental Surgeries for Patient Education with Oral Cavity Reconstruction from a 2D Panoramic X-ray</strong><br />
+<em>26th Annual Conference on Intelligent User Interfaces (IUI2021)</em><br />
+<a href="">[BibTeX]</a><a href="https://arxiv.org/abs/2101.00098">[PDF]</a><a href="">[Code]</a></p>
+  </li>
   <li>
     <p>Weinan Song*, <strong>Yuan Liang</strong>*, Jiawei Yang, Kun Wang, Lei He      (* equal contribution)<br />
 <strong>Oral-3D: Reconstructing the 3D bone structure of Oral Cavity from 2D Panoramic X-ray</strong><br />
@@ -26,13 +41,13 @@
   </li>
   <li>
     <p><strong>Yuan Liang</strong>, Weinan Song, Jiawei Yang, Liang Qiu, Kun Wang, Lei He<br />
-<strong>X2Teeth: 3D TeethReconstruction from a Single Panoramic Radiograph</strong><br />
+<strong>X2Teeth: 3D Teeth Reconstruction from a Single Panoramic Radiograph</strong><br />
 <em>Medical Image Computing &amp; Computer Assisted Intervention (MICCAI2020)</em><br />
 <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:tokBHckJqdUJ:scholar.google.com/&amp;output=citation&amp;scisdr=CgUCzfEXEMz46iDwmAc:AAGBfm0AAAAAX9v1gAd2cBKK-iQiSE0t3r1PpRb9NDkI&amp;scisig=AAGBfm0AAAAAX9v1gBmRn33WLpbaozLm_nJo77UAKKif&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=en">[BibTeX]</a><a href="">[PDF]</a><a href="">[Code]</a></p>
   </li>
   <li>
-    <p><strong>Yuan Liang</strong>, Hsuan-Wei Fan, Zhujun Fang, Leiying Miao, Wen Li, Xuan Zhang, Weibin Sun, Kun Wang, Lei He, Xiang Anthony Chen<br />
-<strong>OralCam: Enabling Self-Examination andAwareness of Oral Health Using a Smartphone Camera</strong><br />
+    <p><strong>Yuan Liang</strong>, Hsuan-Wei Fan, Zhujun Fang, Leiying Miao, Wen Li, Xuan Zhang, Weibin Sun, Kun Wang, Lei He, Xiang ‘Anthony’ Chen<br />
+<strong>OralCam: Enabling Self-Examination and Awareness of Oral Health Using a Smartphone Camera</strong><br />
 <em><span style="color:red">Best Paper Honorable Mentioned Award</span></em><br />
 <em>Human Factors in Computing Systems (CHI2020)</em><br />
 <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:SfUqyU4XngYJ:scholar.google.com/&amp;output=citation&amp;scisdr=CgUCzfEXEMz46iDzGy0:AAGBfm0AAAAAX9v2Ay21gbel2E1qeFfKwkPwZD85Jm57&amp;scisig=AAGBfm0AAAAAX9v2A8sHJbdr4NbETKAG6lw58J-3GW4N&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=en">[BibTeX]</a><a href="">[PDF]</a><a href="">[Code]</a></p>

@@ -7,7 +7,20 @@ modified: 5-28-2019
 comments: false
 ---
 
+
+#### Book Chapters
++ **Yuan Liang**, Lei He, Xiang 'Anthony' Chen\
+  **Human-Centered AI for Medical Imaging** in\
+  *Artificial Intelligence for Human Computer Interaction: A Modern Approach*\
+  Edited by Yang Liang and Otmar Hilliges, *to be published by Springer*\
+  [[BibTeX]]()[[PDF]]()
+
 #### Peer-reviewed Publications
++ **Yuan Liang**, Liang Qiu, Tiancheng Lu, Zhujun Fang, Dezhan Tu, Jiawei Yang, Tiandong Zhao, Yiting Shao, Kun Wang, Xiang 'Anthony' Chen, Lei He\
+  **OralViewer: 3D Demonstration of Dental Surgeries for Patient Education with Oral Cavity Reconstruction from a 2D Panoramic X-ray**\
+  *26th Annual Conference on Intelligent User Interfaces (IUI2021)*\
+  [[BibTeX]]()[[PDF]](https://arxiv.org/abs/2101.00098)[[Code]]()
+
 + Weinan Song\*, **Yuan Liang**\*, Jiawei Yang, Kun Wang, Lei He  &nbsp;&nbsp;&nbsp; (\* equal contribution)\
   **Oral-3D: Reconstructing the 3D bone structure of Oral Cavity from 2D Panoramic X-ray**\
   *Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI2021)*\
@@ -33,7 +46,7 @@ comments: false
   *Medical Image Computing & Computer Assisted Intervention (MICCAI2020)*\
   [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:tokBHckJqdUJ:scholar.google.com/&output=citation&scisdr=CgUCzfEXEMz46iDwmAc:AAGBfm0AAAAAX9v1gAd2cBKK-iQiSE0t3r1PpRb9NDkI&scisig=AAGBfm0AAAAAX9v1gBmRn33WLpbaozLm_nJo77UAKKif&scisf=4&ct=citation&cd=-1&hl=en)[[PDF]]()[[Code]]()
 
-+ **Yuan Liang**, Hsuan-Wei Fan, Zhujun Fang, Leiying Miao, Wen Li, Xuan Zhang, Weibin Sun, Kun Wang, Lei He, Xiang Anthony Chen\
++ **Yuan Liang**, Hsuan-Wei Fan, Zhujun Fang, Leiying Miao, Wen Li, Xuan Zhang, Weibin Sun, Kun Wang, Lei He, Xiang 'Anthony' Chen\
   **OralCam: Enabling Self-Examination and Awareness of Oral Health Using a Smartphone Camera**\
   *<span style="color:red">Best Paper Honorable Mentioned Award</span>*\
   *Human Factors in Computing Systems (CHI2020)*\
@@ -53,6 +66,7 @@ comments: false
   **Dumpling cooking-modeling and simulation**\
   *IFAC Symposium on Advanced Control of Chemical Processes (ADCHEM2015)*\
   [[BibTeX]](https://scholar.googleusercontent.com/scholar.bib?q=info:YJjObZfyAkEJ:scholar.google.com/&output=citation&scisdr=CgUCzfEXEMz46iD5gxY:AAGBfm0AAAAAX9v8mxZP5igiq-B8Y-oSQ1j8r6PKnkoc&scisig=AAGBfm0AAAAAX9v8m9aZ1WeUWDqXpkPUiLkAMuksYc1q&scisf=4&ct=citation&cd=-1&hl=en)[[PDF]]()[[Code]]()
+
 
 
 #### Patents

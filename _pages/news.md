@@ -7,6 +7,10 @@ modified: 5-28-2019
 comments: false
 ---
 
+**[2021.01]** Our paper "OralViewer: 3D Demonstration of Dental Surgeries for Patient Education with Oral Cavity Reconstruction from a 2D Panoramic X-ray" is accepted by IUI 2021.
+
+**[2021.01]** Finished drafting book chapter on "Human-Centered AI for Medical Imaging".
+
 **[2020.12]** Our paper "Oral-3D: Reconstructing the 3D bone structure of Oral Cavity from 2D Panoramic X-ray" is accepted by AAAI 2021.
 
 **[2020.11]** Serve as reviewer for research long papers of IEEE VR 2021, HRI 2021, alt.HRI 2021, ETRA 2021.
