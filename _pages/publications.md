@@ -16,6 +16,17 @@ comments: false
   [[BibTeX]]()[[PDF]]()
 
 #### Peer-reviewed Publications
+
++ Jiawei Yang\*, **Yuan Liang**\*, Yao Zhang, Weinan Song, Kun Wang, Lei He (\* equal contribution)\
+  **Exploring Instance-Level Uncertainty for Medical Detection**\
+  *18th IEEE International Symposium on Biomedical Imaging (ISBI2021)*\
+  [[BibTeX]]()[[PDF]](https://arxiv.org/abs/2012.12880)[[Code]]()
+
++ Weinan Song, **Yuan Liang**, Kun Wang, Lei He, Jiawei Yang\
+  **T-Net: Learning Feature Representation with Task-specific Supervisions in Biomedical Image Analysis**\
+  *18th IEEE International Symposium on Biomedical Imaging (ISBI2021)*\
+  [[BibTeX]]()[[PDF]](https://arxiv.org/abs/2002.08406)[[Code]]()
+
 + **Yuan Liang**, Liang Qiu, Tiancheng Lu, Zhujun Fang, Dezhan Tu, Jiawei Yang, Tiandong Zhao, Yiting Shao, Kun Wang, Xiang 'Anthony' Chen, Lei He\
   **OralViewer: 3D Demonstration of Dental Surgeries for Patient Education with Oral Cavity Reconstruction from a 2D Panoramic X-ray**\
   *26th Annual Conference on Intelligent User Interfaces (IUI2021)*\
@@ -85,12 +96,6 @@ comments: false
 + **Yuan Liang**, Weinan Song, Liang Qiu, Kun Wang, Lei He\
   **A Prior Constraint Adoption Module for Accurate yet Robust Brain Parcellation**\
   *IEEE Journal of Biomedical and Health Informatics*
-
-+ Jiawei Yang\*, **Yuan Liang**\*, Yao Zhang, Weinan Song, Kun Wang, Lei He (\* equal contribution)\
-  **Exploring Instance-Level Uncertainty for Medical Detection**
-
-+ Weinan Song, **Yuan Liang**, Kun Wang, Lei He, Jiawei Yang\
-  **T-Net: Learning Feature Representation with Task-specific Supervisions in Biomedical Image Analysis**
 
 + **Yuan Liang**, Amirali Omidfar, Alexander Chen, Liang Qiu, Peng Cheng, Ximeng Liu and Xiang Chen\
   **Camiot: Recognizing & Interacting with Distant IoT Objects Using a Wrist-Worn Outward-Facing Camera**

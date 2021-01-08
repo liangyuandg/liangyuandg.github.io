@@ -1,14 +1,27 @@
-I"�"<h4 id="book-chapters">Book Chapters</h4>
+I"�#<h4 id="book-chapters">Book Chapters</h4>
 <ul>
   <li><strong>Yuan Liang</strong>, Lei He, Xiang ‘Anthony’ Chen<br />
 <strong>Human-Centered AI for Medical Imaging</strong> in<br />
-<em>Artificial Intelligence for Human Computer Interaction: A Modern Approach</em>, edited by Yang Liang and Otmar Hilliges<br />
-<em>to appear in 2021, published by Springer</em>
+<em>Artificial Intelligence for Human Computer Interaction: A Modern Approach</em><br />
+Edited by Yang Liang and Otmar Hilliges, <em>to be published by Springer</em><br />
 <a href="">[BibTeX]</a><a href="">[PDF]</a></li>
 </ul>
 
 <h4 id="peer-reviewed-publications">Peer-reviewed Publications</h4>
+
 <ul>
+  <li>
+    <p>Jiawei Yang*, <strong>Yuan Liang</strong>*, Yao Zhang, Weinan Song, Kun Wang, Lei He (* equal contribution)<br />
+<strong>Exploring Instance-Level Uncertainty for Medical Detection</strong><br />
+<em>18th IEEE International Symposium on Biomedical Imaging (ISBI2021)</em><br />
+<a href="">[BibTeX]</a><a href="https://arxiv.org/abs/2012.12880">[PDF]</a><a href="">[Code]</a></p>
+  </li>
+  <li>
+    <p>Weinan Song, <strong>Yuan Liang</strong>, Kun Wang, Lei He, Jiawei Yang<br />
+<strong>T-Net: Learning Feature Representation with Task-specific Supervisions in Biomedical Image Analysis</strong><br />
+<em>18th IEEE International Symposium on Biomedical Imaging (ISBI2021)</em><br />
+<a href="">[BibTeX]</a><a href="https://arxiv.org/abs/2002.08406">[PDF]</a><a href="">[Code]</a></p>
+  </li>
   <li>
     <p><strong>Yuan Liang</strong>, Liang Qiu, Tiancheng Lu, Zhujun Fang, Dezhan Tu, Jiawei Yang, Tiandong Zhao, Yiting Shao, Kun Wang, Xiang ‘Anthony’ Chen, Lei He<br />
 <strong>OralViewer: 3D Demonstration of Dental Surgeries for Patient Education with Oral Cavity Reconstruction from a 2D Panoramic X-ray</strong><br />
@@ -94,14 +107,6 @@
     <p><strong>Yuan Liang</strong>, Weinan Song, Liang Qiu, Kun Wang, Lei He<br />
 <strong>A Prior Constraint Adoption Module for Accurate yet Robust Brain Parcellation</strong><br />
 <em>IEEE Journal of Biomedical and Health Informatics</em></p>
-  </li>
-  <li>
-    <p>Jiawei Yang*, <strong>Yuan Liang</strong>*, Yao Zhang, Weinan Song, Kun Wang, Lei He (* equal contribution)<br />
-<strong>Exploring Instance-Level Uncertainty for Medical Detection</strong></p>
-  </li>
-  <li>
-    <p>Weinan Song, <strong>Yuan Liang</strong>, Kun Wang, Lei He, Jiawei Yang<br />
-<strong>T-Net: Learning Feature Representation with Task-specific Supervisions in Biomedical Image Analysis</strong></p>
   </li>
   <li>
     <p><strong>Yuan Liang</strong>, Amirali Omidfar, Alexander Chen, Liang Qiu, Peng Cheng, Ximeng Liu and Xiang Chen<br />
