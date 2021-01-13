@@ -30,6 +30,14 @@ img {
 </figure>
 
 
+### 2019.04 Kauai
+<figure class="third">
+  <img src="../assets/images/IMG_2847_signed.jpg" alt="my alt text"/>
+  <img src="../assets/images/IMG_2848_signed.jpg" alt="my alt text"/>
+  <img src="../assets/images/IMG_2850_signed.jpg" alt="my alt text"/>
+  <figcaption>Helicopter tour above and around Kauai.</figcaption>
+</figure>
+
 
 <!-- ### 2019.09 O‘ahu -->
 
