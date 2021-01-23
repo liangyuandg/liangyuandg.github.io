@@ -18,5 +18,6 @@
 
 source "https://rubygems.org"
 
+gem 'jekyll-seo-tag'
 gem "jekyll", "~> 4.2"
 gem "minimal-mistakes-jekyll"
