@@ -7,12 +7,6 @@ modified: 5-28-2019
 comments: false
 ---
 
-<style>
-img {
-    pointer-events: none;
-}
-</style>
-
 ### 2020.01.01 Sunrise
 <figure class="half">
   <img src="../assets/images/IMG_0503_signed.jpg" alt="my alt text"/>
