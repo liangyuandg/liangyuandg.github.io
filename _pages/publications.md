@@ -101,7 +101,7 @@ comments: false
   **Camiot: Recognizing & Interacting with Distant IoT Objects Using a Wrist-Worn Outward-Facing Camera**
 
 + Hongyan Gu, **Yuan Liang**, Yifan Xu, Xiang 'Anthony' Chen\
-**xPath: A Tool for Human-AI Collaborative Diagnosis in Pathology with Joint-Analyses of Multiple Criteria andExplanation by Hierarchically Traceable Evidence**\
+**xPath: A Tool for Human-AI Collaborative Diagnosis in Pathology with Joint-Analyses of Multiple Criteria andExplanation by Hierarchically Traceable Evidence**
 
 + Liang Qiu, **Yuan Liang**, Yizhou Zhao, Pan Lu, Baolin Peng, Zhou Yu, Ying Nian Wu and Song-Chun Zhu\
-**Incremental Graph Parsing for Social Relation Inference in Dialogues**\
+**Incremental Graph Parsing for Social Relation Inference in Dialogues**
