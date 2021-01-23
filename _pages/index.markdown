@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: Yuan Liang
+title:
 classes: single
 modified: 5-28-2019
 comments: false
