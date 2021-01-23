@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Yuan Liang"
   avatar           : "./assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am passionate about intelligent system prototyping, jogging, and MOBA games. I am proundly from Tianjin."
+  bio              : "I am passionate about intelligent system prototyping and jogging. I come from Tianjin, and currently resident in Los Angeles."
   location         : "Los Angeles, USA"
   email            :
   links:

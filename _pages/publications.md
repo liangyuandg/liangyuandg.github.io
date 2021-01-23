@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /publications/
-title: My Publications
+title: Publications
 classes: wide
 modified: 5-28-2019
 comments: false
