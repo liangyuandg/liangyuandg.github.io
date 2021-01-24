@@ -33,7 +33,7 @@ comments: false
 
 
 ### 2019.04 Island of Oahu
-<figure class="video_container">
+<figure class="half">
 <video oncontextmenu="return false;" autoplay controlsList="nodownload" muted loop>
   <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
   <!-- <figcaption>Sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu.</figcaption> -->
