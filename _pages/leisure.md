@@ -41,7 +41,7 @@ comments: false
 </figure>
 
 <figure class="video_container">
-  <video autoplay="false" muted="true" allowfullscreen="false">
+  <video oncontextmenu="return false;" controls autoplay controlsList="nodownload" muted>
     <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
   </video>
 </figure>
