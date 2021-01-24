@@ -38,7 +38,7 @@ comments: false
   <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
   <!-- <figcaption>Sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu.</figcaption> -->
 <!-- </video> -->
-<img src="../assets/images/IMG_2696_2.jpg" height="80%" alt="my alt text"/>
+<img src="../assets/images/IMG_2696_2.jpg" width="40%" alt="my alt text"/>
 <img src="../assets/images/IMG_1611.jpg" alt="my alt text"/>
 <figcaption>Left: Sunset at the rooftop Infinity Pool of Prince Waikiki Resort, Honolulu. Right: Magic Island Lagoon and Pacific Ocean View from Honolulu.</figcaption>
 </figure>
