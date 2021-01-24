@@ -38,8 +38,8 @@ comments: false
   <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
   <!-- <figcaption>Sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu.</figcaption> -->
 </video>
-<img src="../assets/images/IMG_1611.jpg" alt="my alt text"/>
-<figcaption>Left: sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu. Right: Magic Island Lagoon and Pacific Ocean view from Honolulu. </figcaption>
+<!-- <img src="../assets/images/IMG_1611.jpg" alt="my alt text"/> -->
+<figcaption>Sunset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu. </figcaption>
 </figure>
 <!-- </figure> -->
 
