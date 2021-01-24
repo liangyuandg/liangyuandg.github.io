@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /index/
+permalink: /
 title:
 classes: single
 modified: 5-28-2019
