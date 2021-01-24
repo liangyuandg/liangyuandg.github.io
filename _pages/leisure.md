@@ -34,11 +34,12 @@ comments: false
 
 ### 2019.04 Island of Oahu
 <figure class="half">
-<video oncontextmenu="return false;" autoplay controlsList="nodownload" muted loop>
+<!-- <video oncontextmenu="return false;" autoplay controlsList="nodownload" muted loop>
   <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
   <!-- <figcaption>Sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu.</figcaption> -->
-</video>
-<!-- <img src="../assets/images/IMG_1611.jpg" alt="my alt text"/> -->
+<!-- </video> -->
+<img src="../assets/images/IMG_2847_signed.jpg" alt="my alt text"/>
+<img src="../assets/images/IMG_1611.jpg" alt="my alt text"/>
 <figcaption>Sunset time-lapse at the rooftop Infinity Pool of Prince Waikiki Resort, Honolulu. </figcaption>
 </figure>
 <!-- </figure> -->
