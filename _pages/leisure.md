@@ -32,14 +32,7 @@ comments: false
 </figure>
 
 
-### 2019.04 Kauai
-<figure class="third">
-  <img src="../assets/images/IMG_2847_signed.jpg" alt="my alt text"/>
-  <img src="../assets/images/IMG_2848_signed.jpg" alt="my alt text"/>
-  <img src="../assets/images/IMG_2850_signed.jpg" alt="my alt text"/>
-  <figcaption>Helicopter tour above and around Kauai.</figcaption>
-</figure>
-
+### 2019.04 Island of Oahu
 <!-- <figure class="video_container"> -->
 <video class='center' oncontextmenu="return false;" autoplay controlsList="nodownload" muted loop>
   <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
