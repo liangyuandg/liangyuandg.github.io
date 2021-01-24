@@ -1,0 +1,36 @@
+I"8<h3 id="20200101-sunrise">2020.01.01 Sunrise</h3>
+<figure class="half">
+  <img src="../assets/images/IMG_0503_signed.jpg" alt="my alt text" />
+  <img src="../assets/images/IMG_0517_signed.jpg" alt="my alt text" />
+  <figcaption>Sunrise sight at Griffith Observatory, Los Angeles, California.</figcaption>
+</figure>
+
+<h3 id="201909-island-of-hawaii">2019.09 Island of Hawai’i</h3>
+<figure class="third">
+  <img src="../assets/images/IMG_4830_signed.jpg" alt="my alt text" />
+  <img src="../assets/images/IMG_4573_signed.jpg" alt="my alt text" />
+  <img src="../assets/images/IMG_7744_signed.jpg" alt="my alt text" />
+  <figcaption>Left: star track from Buddha Point, Waikoloa Village, Hawaii. Mid, right: Hawaii Volcanoes National Park, Hilo, Hawaii.</figcaption>
+</figure>
+
+<h3 id="201904-kauai">2019.04 Kauai</h3>
+<figure class="third">
+  <img src="../assets/images/IMG_2847_signed.jpg" alt="my alt text" />
+  <img src="../assets/images/IMG_2848_signed.jpg" alt="my alt text" />
+  <img src="../assets/images/IMG_2850_signed.jpg" alt="my alt text" />
+  <figcaption>Helicopter tour above and around Kauai.</figcaption>
+</figure>
+
+<h3 id="201904-island-of-oahu">2019.04 Island of Oahu</h3>
+<figure class="video_container">
+<video oncontextmenu="return false;" autoplay="" controlsList="nodownload" muted="" loop="">
+  <source src="../assets/images/IMG_2696.mp4" type="video/mp4" />
+  <!-- <figcaption>Sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu.</figcaption> -->
+</video>
+</figure>
+<!-- </figure> -->
+
+<!-- ### 2019.09 O‘ahu -->
+
+<!-- ### 2019.09 Kauai  -->
+:ET
