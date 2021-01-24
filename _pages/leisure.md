@@ -40,11 +40,11 @@ comments: false
   <figcaption>Helicopter tour above and around Kauai.</figcaption>
 </figure>
 
-<figure class="video_container">
-  <video oncontextmenu="return false;" autoplay controlsList="nodownload" muted loop>
-    <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
-  </video>
-</figure>
+<!-- <figure class="video_container"> -->
+<video class='center' oncontextmenu="return false;" autoplay controlsList="nodownload" muted loop>
+  <source src="../assets/images/IMG_2696.mp4" type="video/mp4">
+</video>
+<!-- </figure> -->
 
 <!-- ### 2019.09 O‘ahu -->
 
