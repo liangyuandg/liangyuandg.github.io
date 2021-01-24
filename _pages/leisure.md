@@ -39,7 +39,7 @@ comments: false
   <!-- <figcaption>Sunsset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu.</figcaption> -->
 </video>
 <!-- <img src="../assets/images/IMG_1611.jpg" alt="my alt text"/> -->
-<figcaption>Sunset time-lapse at the rooftop Infinity Pool of Prince Waikiki, Honolulu. </figcaption>
+<figcaption>Sunset time-lapse at the rooftop Infinity Pool of Prince Waikiki Resort, Honolulu. </figcaption>
 </figure>
 <!-- </figure> -->
 
