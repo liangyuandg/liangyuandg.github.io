@@ -14,7 +14,7 @@ I also work closely with [Dr. Anthony Chen](https://xac.is/) from [UCLA Human Co
 My research focuses on computer vision algorithm and application for medical data, and intersects with natural language programming.
 My goal is to develop AI-empowered tools for intelligent healthcare.
 
-Check out my [CV](assets/files/cv.pdf).
+Check out my [CV](https://liangyuandg.github.io/404/).
 
 #### Contact Information
 E-mail: liangyuandg[AT]ucla[DOT]edu\
@@ -49,7 +49,7 @@ Address: Room 66-142G, Engineering Building IV, UCLA, CA 90095, US
 
 **[2020.01]** Our paper "OralCam: Enabling Self-Examination andAwareness of Oral Health Using a Smartphone Camera" receives the best paper honorable mentioned award for CHI 2020.
 
-[More...](./news)
+[More...](./news/)
 
 \
 \
