@@ -34,30 +34,6 @@ The tool was implemented using OpenGL, JavaScript and three.js, and can run read
 
 
 
-### Smart Reporting: A Radiologist's Reporting Tool for Fast Report Generation
-[*MICCAI2019, ACML2020, Patent 17/006.590*]\
-A physician is required to write a comprehensive and accurate report describing all the findings for each study, which is essentially time consuming.
-To solve the problem, we developed the interactive tool that largely reduces reporting time (by up to 50%) with two key techniques:
-(1) the automatic awareness of anatomies, and (2) the embedding of a medical knowledge graph.
-
-***Algorithm:***
-Automatic anatomy awareness enables a physician to interactively input a finding by clicking the region of interest on the study, and pre-fill certain report contents.
-Existing anatomical segmentation CNNs are not robust to image variations caused by pathology and different scanning setups.
-To tackle the issue, we proposed a general method to increase the robustness of CNNs with underlying anatomical invariances---incorporating probabilistic atlas priors as explicit constraints for predictions over a *locally-connected Conditional Random Field*.
-The method achieved state-of-the-art accuracy on two brain segmentation benchmarks with significantly boosted robustness.
-<figure class="one">
-  <img src="../assets/images/SmartReporting_algorithm.jpg" alt="my alt text"/>
-</figure>
-
-***System:***
-We developed the generic application in C++ and performed user testing.
-A physician can input a finding by simply clicking the location, selecting a template with predefined entries and options, and making selection for most of time.
-The tool collects all filled templates for a study, and automatically converts them into a readable medical report based on the knowledge graph.
-<figure class="one">
-  <img src="../assets/images/SmartReporting_demo.jpg" alt="my alt text"/>
-</figure>
-
-
 ### OralCam: A Smartphone Tool for Self-Awareness of Oral Health
 [*CHI2020, Oral Disease*]\
 Due to a lack of medical resources or oral health awareness, oral diseases are often left unexamined and untreated, affect-ing a large population worldwide.
@@ -79,6 +55,32 @@ We designed the tool to provide contextualized results with model attention reas
   <source src="../assets/images/OralCam_demo.mp4" type="video/mp4">
 </video>
 
+
+### Smart Reporting: A Radiologist's Reporting Tool for Fast Report Generation
+[*MICCAI2019, ACML2020, Patent 17/006.590*]\
+A physician is required to write a comprehensive and accurate report describing all the findings for each study, which is essentially time consuming.
+To solve the problem, we developed the interactive tool that largely reduces reporting time (by up to 50%) with two key techniques:
+(1) the automatic awareness of anatomies, and (2) the embedding of a medical knowledge graph.
+
+***Algorithm:***
+Automatic anatomy awareness enables a physician to interactively input a finding by clicking the region of interest on the study, and pre-fill certain report contents.
+Existing anatomical segmentation CNNs are not robust to image variations caused by pathology and different scanning setups.
+To tackle the issue, we proposed a general method to increase the robustness of CNNs with underlying anatomical invariances---incorporating probabilistic atlas priors as explicit constraints for predictions over a *locally-connected Conditional Random Field*.
+The method achieved state-of-the-art accuracy on two brain segmentation benchmarks with significantly boosted robustness.
+<figure class="one">
+  <img src="../assets/images/SmartReporting_algorithm.jpg" alt="my alt text"/>
+</figure>
+
+***System:***
+We developed the generic application in C++ and performed user testing.
+A physician can input a finding by simply clicking the location, selecting a template with predefined entries and options, and making selection for most of time.
+The tool collects all filled templates for a study, and automatically converts them into a readable medical report based on the knowledge graph.
+<!-- <figure class="one">
+  <img src="../assets/images/SmartReporting_demo.jpg" alt="my alt text"/>
+</figure> -->
+<video width="100%" oncontextmenu="return false;" controls controlsList="nodownload" poster="../assets/images/SmartReporting_teaser.png">
+  <source src="../assets/images/SmartReporting.mp4" type="video/mp4">
+</video>
 
 
 ### XPath: A Pathologist's Tool for Human-AI Collaborative Tumor Grading
