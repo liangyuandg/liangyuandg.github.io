@@ -17,6 +17,11 @@ comments: false
 
 #### Peer-reviewed Publications
 
++ Liang Qiu, **Yuan Liang**, Yizhou Zhao, Pan Lu, Baolin Peng, Zhou Yu, Ying Nian Wu and Song-Chun Zhu\
+  **SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues**\
+  *The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics (ACL2021)*\
+  [[PDF]](https://liangyuandg.github.io/404/)[[Code]](https://liangyuandg.github.io/404/)
+
 + Jiawei Yang\*, **Yuan Liang**\*, Yao Zhang, Weinan Song, Kun Wang, Lei He (\* equal contribution)\
   **Exploring Instance-Level Uncertainty for Medical Detection**\
   *18th IEEE International Symposium on Biomedical Imaging (ISBI2021)*\
@@ -83,7 +88,8 @@ comments: false
 #### Patents
 + Shiping Xu, Jean-Paul Dym, **Yuan Liang**\
   **System for generating medical reports for imaging studies**\
-  *17/006.590. Filed in 2020.*
+  *17/006,590. Pub. in 2021*\
+  [[PDF]](https://patentimages.storage.googleapis.com/0f/36/85/bab285a63baebc/US20210074427A1.pdf)
 
 #### Works Under Review
 + Wen Li\*, **Yuan Liang**\*, Xuan Zhang, Chao Liu, Lei He, Leiying Miao, Weibin Sun (\* equal contribution)\
@@ -102,6 +108,3 @@ comments: false
 
 + Hongyan Gu, **Yuan Liang**, Yifan Xu, Xiang 'Anthony' Chen\
 **xPath: A Tool for Human-AI Collaborative Diagnosis in Pathology with Joint-Analyses of Multiple Criteria andExplanation by Hierarchically Traceable Evidence**
-
-+ Liang Qiu, **Yuan Liang**, Yizhou Zhao, Pan Lu, Baolin Peng, Zhou Yu, Ying Nian Wu and Song-Chun Zhu\
-**Incremental Graph Parsing for Social Relation Inference in Dialogues**
