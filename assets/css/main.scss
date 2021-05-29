@@ -7,11 +7,23 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+.page a:link, a:visited, a:active {
+  color: black;
+  border-bottom: 1.2px dotted rgba(0, 0, 0, 0.493);
+  text-decoration: none;
+}
+.page a:hover {
+  border-bottom: 1.2px solid rgba(0, 0, 0, 0.493);
+  text-decoration: none !important;
+}
+
+
 html {
-  font-size: 12px; // change to whatever
+  font-size: 10px; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
+    font-size: 15px; // change to whatever
   }
 
   @include breakpoint($large) {
@@ -19,6 +31,7 @@ html {
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
+    font-size: 17px; // change to whatever
   }
 }
+
