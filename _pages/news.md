@@ -6,6 +6,8 @@ classes: wide
 modified: 5-28-2019
 comments: false
 ---
+**[2021.05]** Start working as Peronalized Healthcare Data Science Imaging Intern in the PHC Labs, Genetech. 
+
 **[2021.05]** Our paper "SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues" is accepted by ACL 2021.
 
 **[2021.03]** Serve as reviewer for CogSci 2021, MobileHCI 2021, and INTERACT 2021.
