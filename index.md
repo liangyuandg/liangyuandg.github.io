@@ -23,6 +23,8 @@ Address: Room 66-142G, Engineering Building IV, UCLA, CA 90095, US
 
 #### <span style="color:red">What's New</span>
 
+**[2021.06]** One paper is accepted by MICCAI 2021.
+
 **[2021.05]** Start working as Peronalized Healthcare Data Science Imaging Intern in the PHC Labs, Genetech. 
 
 **[2021.05]** Our paper "SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues" is accepted by ACL 2021.

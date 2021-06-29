@@ -17,6 +17,11 @@ comments: false
 
 #### Peer-reviewed Publications
 
++ Jiawei Yang, Yao Zhang, **Yuan Liang**, Yang Zhang, [Lei He][HL]{:target="_blank"} and Zhiqiang He\
+  **TumorCP: A Simple but Effective Object-Level Data Augmentation for Tumor Segmentation**\
+  *Medical Image Computing & Computer Assisted Intervention (MICCAI2021)*\
+  [[PDF]](https://liangyuandg.github.io/404/){:target="_blank"}[[Code]](https://liangyuandg.github.io/404/){:target="_blank"}
+
 + [Liang Qiu][QL]{:target="_blank"}, **Yuan Liang**, Yizhou Zhao, Pan Lu, Baolin Peng, [Zhou Yu][YZ]{:target="_blank"}, [Ying Nian Wu][WYN]{:target="_blank"} and [Song-Chun Zhu][ZSC]{:target="_blank"}\
   **SocAoG: Incremental Graph Parsing for Social Relation Inference in Dialogues**\
   *The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics (ACL2021)*\
