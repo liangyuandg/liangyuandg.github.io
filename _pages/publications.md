@@ -17,6 +17,11 @@ comments: false
 
 #### Peer-reviewed Publications
 
++ Wen Li\*, **Yuan Liang**\*, Xuan Zhang, Chao Liu, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
+  **A Deep Learning Approach to Automatic Gingivitis Screening based On classification and Localization in RGB Photos**\
+  *Scientific Reports*
+  [[PDF]](https://www.researchsquare.com/article/rs-117989/v1){:target="_blank"}[[Code]](https://liangyuandg.github.io/404/){:target="_blank"}
+
 + Jiawei Yang, Yao Zhang, **Yuan Liang**, Yang Zhang, [Lei He][HL]{:target="_blank"} and Zhiqiang He\
   **TumorCP: A Simple but Effective Object-Level Data Augmentation for Tumor Segmentation**\
   *Medical Image Computing & Computer Assisted Intervention (MICCAI2021)*\
@@ -104,10 +109,6 @@ comments: false
 
 + Zhuofu Tao, Chen Wu, **Yuan Liang**, Kun Wang and Lei He\
   **LightGCN: A Lightweight FPGA-Based Graph Convolutional Network Accelerator**
-
-+ Wen Li\*, **Yuan Liang**\*, Xuan Zhang, Chao Liu, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
-  **A Deep Learning Approach to Automatic Gingivitis Screening based On classification and Localization in RGB Photos**\
-  *Scientific Reports*
 
 + [Liang Qiu][QL]{:target="_blank"}, Yizhou Zhao, **Yuan Liang**, Pan Lu, Weiyan Shi, [Zhou Yu][YZ]{:target="_blank"}, [Song-Chun Zhu][ZSC]{:target="_blank"}\
   **Towards Socially Intelligent Agents with Mental State Transition and Human Utility**

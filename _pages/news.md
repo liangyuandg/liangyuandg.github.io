@@ -7,6 +7,8 @@ modified: 5-28-2019
 comments: false
 ---
 
+**[2021.07]** One paper is accepted by Scientific Reports.
+
 **[2021.06]** One paper is accepted by MICCAI 2021.
 
 **[2021.05]** Start working as Peronalized Healthcare Data Science Imaging Intern in the PHC Labs, Genetech. 
