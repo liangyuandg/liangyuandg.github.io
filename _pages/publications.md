@@ -17,14 +17,14 @@ comments: false
 
 #### Peer-reviewed Publications
 
-+ **Yuan Liang**, Weikun Han, [Liang Qiu[QL]]{:target="_blank"}, Chen Wu, Yiting Shao, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
++ **Yuan Liang**, Weikun Han, [Liang Qiu][QL]{:target="_blank"}, Chen Wu, Yiting Shao, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
   **Exploring Forensic Dental Identification with Deep Learning**\
-  *2021 Conference on Neural Information Processing Systems (NeurIPS 2021)*
+  *2021 Conference on Neural Information Processing Systems (NeurIPS 2021)*\
   [[PDF]](https://liangyuandg.github.io/404/){:target="_blank"}[[Code]](https://liangyuandg.github.io/404/){:target="_blank"}
 
 + Wen Li\*, **Yuan Liang**\*, Xuan Zhang, Chao Liu, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
   **A Deep Learning Approach to Automatic Gingivitis Screening based On classification and Localization in RGB Photos**\
-  *Scientific Reports*
+  *Scientific Reports*\
   [[PDF]](https://www.researchsquare.com/article/rs-117989/v1){:target="_blank"}[[Code]](https://liangyuandg.github.io/404/){:target="_blank"}
 
 + Jiawei Yang, Yao Zhang, **Yuan Liang**, Yang Zhang, [Lei He][HL]{:target="_blank"} and Zhiqiang He\
