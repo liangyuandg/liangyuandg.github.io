@@ -13,11 +13,11 @@ comments: false
   **Human-Centered AI for Medical Imaging** in\
   *Artificial Intelligence for Human Computer Interaction: A Modern Approach*\
   Edited by [Yang Li][LY]{:target="_blank"} and [Otmar Hilliges][OH]{:target="_blank"}, *Springer*\
-  [[LINK]](https://www.springer.com/gp/book/9783030826802){:target="_blank"}
+  [[Link]](https://www.springer.com/gp/book/9783030826802){:target="_blank"}
 
 #### Peer-reviewed Publications
 
-+ **Yuan Liang**, Weikun Han, Liang Qiu[QL]{:target="_blank"}, Chen Wu, Yiting Shao, Kun Wang[WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
++ **Yuan Liang**, Weikun Han, [Liang Qiu[QL]]{:target="_blank"}, Chen Wu, Yiting Shao, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
   **Exploring Forensic Dental Identification with Deep Learning**\
   *2021 Conference on Neural Information Processing Systems (NeurIPS 2021)*
   [[PDF]](https://liangyuandg.github.io/404/){:target="_blank"}[[Code]](https://liangyuandg.github.io/404/){:target="_blank"}
