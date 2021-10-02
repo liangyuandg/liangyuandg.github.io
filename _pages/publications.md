@@ -12,10 +12,15 @@ comments: false
 + **Yuan Liang**, [Lei He][HL]{:target="_blank"}, [Xiang 'Anthony' Chen][CX]{:target="_blank"}\
   **Human-Centered AI for Medical Imaging** in\
   *Artificial Intelligence for Human Computer Interaction: A Modern Approach*\
-  Edited by [Yang Li][LY]{:target="_blank"} and [Otmar Hilliges][OH]{:target="_blank"}, *to be published by Springer*\
-  [[PDF]](https://liangyuandg.github.io/404/){:target="_blank"}
+  Edited by [Yang Li][LY]{:target="_blank"} and [Otmar Hilliges][OH]{:target="_blank"}, *Springer*\
+  [[LINK]](https://www.springer.com/gp/book/9783030826802){:target="_blank"}
 
 #### Peer-reviewed Publications
+
++ **Yuan Liang**, Weikun Han, Liang Qiu[QL]{:target="_blank"}, Chen Wu, Yiting Shao, Kun Wang[WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
+  **Exploring Forensic Dental Identification with Deep Learning**\
+  *2021 Conference on Neural Information Processing Systems (NeurIPS 2021)*
+  [[PDF]](https://liangyuandg.github.io/404/){:target="_blank"}[[Code]](https://liangyuandg.github.io/404/){:target="_blank"}
 
 + Wen Li\*, **Yuan Liang**\*, Xuan Zhang, Chao Liu, [Lei He][HL]{:target="_blank"}, Leiying Miao, Weibin Sun (\* equal contribution)\
   **A Deep Learning Approach to Automatic Gingivitis Screening based On classification and Localization in RGB Photos**\
@@ -103,9 +108,6 @@ comments: false
   [[PDF]](https://patentimages.storage.googleapis.com/0f/36/85/bab285a63baebc/US20210074427A1.pdf){:target="_blank"}
 
 #### Works Under Review
-
-+ **Yuan Liang**, Weikun Han, Liang Qiu, Chen Wu, Yiting Shao, Kun Wang and Lei He\
-  **Exploring Forensic Dental Identification with Deep Learning**
 
 + Zhuofu Tao, Chen Wu, **Yuan Liang**, Kun Wang and Lei He\
   **LightGCN: A Lightweight FPGA-Based Graph Convolutional Network Accelerator**
