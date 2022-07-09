@@ -1,11 +1,19 @@
 ---
 layout: single
 permalink: /news/
-title: More News
+title: News
 classes: wide
 modified: 5-28-2019
 comments: false
 ---
+
+**[2022.07]** One paper is accepted by <span style="color:red">ECCV 2022</span>.
+
+**[2022.07]** One paper is accepted by <span style="color:red">ACM Transactions on Reconfigurable Technology and Systems (TRETS)</span>.
+
+**[2022.06]** Serve as a reviewer for ISMAR 2022.
+
+**[2022.03]** Serve as a reviewer for MICCAI 2022.
 
 **[2021.09]** One paper is accepted by <span style="color:red">NeurIPS 2021</span>.
 
