@@ -33,6 +33,11 @@ comments: false
   *ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022*\
   [[PDF]](https://arxiv.org/pdf/2111.03184.pdf){:target="_blank"}
 
++ [Liang Qiu][QL]{:target="_blank"}, Yizhou Zhao, **Yuan Liang**, Pan Lu, Weiyan Shi, [Zhou Yu][YZ]{:target="_blank"}, [Song-Chun Zhu][ZSC]{:target="_blank"}\
+  **Towards Socially Intelligent Agents with Mental State Transition and Human Utility**\
+  *The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (**SIGDIAL**), 2022*\
+  [[PDF]](https://arxiv.org/abs/2103.07011){:target="_blank"}
+
 + **Yuan Liang**, Weikun Han, [Liang Qiu][QL]{:target="_blank"}, Chen Wu, Yiting Shao, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}\
   **Exploring Forensic Dental Identification with Deep Learning**\
   *Conference on Neural Information Processing Systems (**NeurIPS**), 2021*\
@@ -122,9 +127,6 @@ comments: false
   [[PDF]](https://patentimages.storage.googleapis.com/0f/36/85/bab285a63baebc/US20210074427A1.pdf){:target="_blank"}
 
 #### Works Under Review
-
-+ [Liang Qiu][QL]{:target="_blank"}, Yizhou Zhao, **Yuan Liang**, Pan Lu, Weiyan Shi, [Zhou Yu][YZ]{:target="_blank"}, [Song-Chun Zhu][ZSC]{:target="_blank"}\
-  **Towards Socially Intelligent Agents with Mental State Transition and Human Utility**
 
 + **Yuan Liang**, Weinan Song, [Liang Qiu][QL]{:target="_blank"}, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}\
   **A Prior Constraint Adoption Module for Accurate yet Robust Brain Parcellation**\

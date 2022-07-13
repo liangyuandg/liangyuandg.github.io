@@ -11,6 +11,8 @@ comments: false
 
 **[2022.07]** One paper is accepted by <span style="color:red">ACM Transactions on Reconfigurable Technology and Systems (TRETS)</span>.
 
+**[2022.07]** One paper is accepted by <span style="color:red">SIGDIAL 2022</span>.
+
 **[2022.06]** Serve as a reviewer for ISMAR 2022.
 
 **[2022.03]** Serve as a reviewer for MICCAI 2022.
