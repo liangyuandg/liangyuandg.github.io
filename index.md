@@ -10,13 +10,15 @@ comments: false
 #### About Me    
 My name is Yuan Liang. 
 I received my PhD in Electrical & Computer Engineering and MS in Computer Science, both from University of California, Los Angeles (UCLA). 
-My research is focused on computer vision algorithms for medical imaging data. 
+I design algorithms and build interactive computer-aided diagnostic systems. 
+My resseach interests include computer vision and human-computer interaction. 
+
 
 I worked in [Design Automation Laboratory](http://eda.ee.ucla.edu/), advised by [Dr. Lei He](http://eda.ee.ucla.edu/people/faculty.html).
 I have done internships at Genentech and Amazon during PhD. 
 I also worked closely with [Dr. Anthony Chen](https://xac.is/) from [UCLA HCI Research](https://hci.ucla.edu/#projects), [Dr. Kun Wang](http://eda.ee.ucla.edu/people/kun-wang/index.html), and [Dr. JP Dym](https://www.jpdym.net/) from Nines Radiology.
 
-Currently, I am a deep learning researcher at Topaz Labs, working on topics of image resotration, enhancement, and generation. 
+Currently, I am a deep learning researcher at Topaz Labs, working on practical algorithms for image resotration, enhancement, and generation. 
 
 <!-- I am passionate about developing AI-empowered medical systems for deployment/commercialization. -->
 
