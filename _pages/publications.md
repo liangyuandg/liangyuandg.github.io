@@ -38,6 +38,11 @@ comments: false
   *The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (**SIGDIAL**), 2022*\
   [[PDF]](https://arxiv.org/abs/2103.07011){:target="_blank"}
 
++ Xuan Zhang\*, **Yuan Liang**\*, Wen Li, Chao Liu, Deao Gu, Weibin Sun, Leiying Miao  &nbsp;&nbsp;&nbsp; (\* equal contribution)\
+  **Development and Evaluation of Deep Learning for Screening Dental Caries from Oral Photos**\
+  *Oral Diseases, 2020*\
+  [[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1111/odi.13735?af=R){:target="_blank"}[[Codes]](https://github.com/liangyuandg/DLCariesScreen){:target="_blank"}
+
 + **Yuan Liang**, Weikun Han, [Liang Qiu][QL]{:target="_blank"}, Chen Wu, Yiting Shao, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}\
   **Exploring Forensic Dental Identification with Deep Learning**\
   *Conference on Neural Information Processing Systems (**NeurIPS**), 2021*\
@@ -77,11 +82,6 @@ comments: false
   **Oral-3D: Reconstructing the 3D bone structure of Oral Cavity from 2D Panoramic X-ray**\
   *Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI**), 2021*\
   [[PDF]](https://arxiv.org/abs/2003.08413){:target="_blank"}
-
-+ Xuan Zhang\*, **Yuan Liang**\*, Wen Li, Chao Liu, Deao Gu, Weibin Sun, Leiying Miao  &nbsp;&nbsp;&nbsp; (\* equal contribution)\
-  **Development and Evaluation of Deep Learning for Screening Dental Caries from Oral Photos**\
-  *Oral Diseases, 2020*\
-  [[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1111/odi.13735?af=R){:target="_blank"}[[Codes]](https://github.com/liangyuandg/DLCariesScreen){:target="_blank"}
 
 + [Liang Qiu][QL]{:target="_blank"}, Yizhou Zhao, Weiyan Shi, **Yuan Liang**, Feng Shi, Tao Yuan, [Zhou Yu][YZ]{:target="_blank"}, [Song-Chun Zhu][ZSC]{:target="_blank"}\
   **Structured Attention for Unsupervised Dialogue Structure Induction**\
