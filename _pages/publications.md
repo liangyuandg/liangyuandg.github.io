@@ -40,7 +40,7 @@ comments: false
 
 + Xuan Zhang\*, **Yuan Liang**\*, Wen Li, Chao Liu, Deao Gu, Weibin Sun, Leiying Miao  &nbsp;&nbsp;&nbsp; (\* equal contribution)\
   **Development and Evaluation of Deep Learning for Screening Dental Caries from Oral Photos**\
-  *Oral Diseases, 2020*\
+  *Oral Diseases, 2022*\
   [[PDF]](https://onlinelibrary.wiley.com/doi/abs/10.1111/odi.13735?af=R){:target="_blank"}[[Codes]](https://github.com/liangyuandg/DLCariesScreen){:target="_blank"}
 
 + **Yuan Liang**, Weikun Han, [Liang Qiu][QL]{:target="_blank"}, Chen Wu, Yiting Shao, [Kun Wang][WK]{:target="_blank"}, [Lei He][HL]{:target="_blank"}\
