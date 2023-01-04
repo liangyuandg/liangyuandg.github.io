@@ -23,6 +23,11 @@ comments: false
 
 #### Conference & Journal Publications
 
++ Hongyan Gu, Yuan Liang, Yifan Xu, Christopher Kazu Williams, Shino Magaki, Negar Khanlou, Harry Vinters, Zesheng Chen, Shuo Ni, Chunxu Yang, Wenzhong Yan, Xinhai Robert Zhang, Yang Li, Mohammad Haeri, [Xiang 'Anthony' Chen][CX]{:target="_blank"}\
+  **Improving Workflow Integration with xPath: Design and Evaluation of a Human-AI Diagnosis System in Pathology**\
+  *ACM Transactions on Computer-Human Interaction, 2022*\
+  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3577011){:target="_blank"}
+
 + Jiawei Yang, Hanbo Chen, **Yuan Liang**, [Junzhou Huang][JZH]{:target="_blank"}, [Lei He][HL]{:target="_blank"}, Jianhua Yao\
   **ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images**\
   *European Conference on Computer Vision (**ECCV**), 2022*\

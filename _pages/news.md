@@ -7,6 +7,8 @@ modified: 5-28-2019
 comments: false
 ---
 
+**[2022.11]** One paper is accepted by <span style="color:red">ACM Transactions on Computer-Human Interaction</span>.
+
 **[2022.07]** One paper is accepted by <span style="color:red">ECCV 2022</span>.
 
 **[2022.07]** One paper is accepted by <span style="color:red">ACM Transactions on Reconfigurable Technology and Systems (TRETS)</span>.
